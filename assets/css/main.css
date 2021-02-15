@@ -126,7 +126,8 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #bcc4cc;
+		color: #0B2236;
+		background-color: #bcc4cc;
 		border-bottom-color: transparent;
 		text-decoration: none;
 		font-size: 200%;
@@ -135,12 +136,13 @@ input, select, textarea {
 
 	a.page:hover {
 		border-bottom-color: transparent;
-		color: #bcc4cc !important;
+		color: #7C293D !important;
 		text-decoration: none;
 	}
 
 	strong, b {
-		color: #0B2236;
+		/*color: #0B2236;*/
+		color: #bcc4cc;
 		font-weight: bold;
 		font-size: 200%;
 	}
@@ -2206,6 +2208,65 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	.column {
+		float: left;
+		width: 33.33%;
+	  }
+	  
+	  /* Clear floats after the columns */
+	  .row:after {
+		content: "";
+		display: table;
+		clear: both;
+	  }
+
+	/* Thanks to: https://stackoverflow.com/questions/17629286/css-vertical-line-between-bullets-in-an-unordered-list */
+	.list-wrapper {
+		position:relative;
+	  }
+	  .list-item-wrapper {
+		margin-top:10px;
+		position:relative;
+	  }
+	  .list-bullet {
+		float:left;
+		margin-right:20px;
+		background:#0B2236;
+		height:20px;
+		width:20px;
+		line-height:20px;
+		border-radius:100px;
+		font-weight:700;
+		color:#bcc4cc;
+		text-align:center;
+	  }
+	  .list-item {
+		display:table-row;
+		vertical-align:middle;
+	  }
+	  .list-title {
+		  font-weight:700;
+	  }
+	  .list-text {
+		  font-weight:400;
+	  }
+	  .red-line {
+		background:#0B2236;
+		z-index:-1;
+		width:4px;
+		height:100%;
+		position:absolute;
+		left:8px;
+	  }
+	  .white-line {
+		background:#bcc4cc;
+		z-index:-1;
+		top:0px;
+		width:1px;
+		height:100%;
+		position:absolute;
+		left:15px;
+	  }
 /* Icons */
 
 	ul.icons {
@@ -2466,14 +2527,15 @@ input, select, textarea {
 		border-radius: 0.35em;
 		border: solid 3px #0B2236;
 		color: #0B2236 !important;
+		background-color: #bcc4cc !important;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 400;
-		height: 3.15em;
-		height: calc(2.75em + 6px);
-		line-height: 2.75em;
-		min-width: 10em;
-		padding: 0 1.5em;
+		font-weight: bold;
+		font-size: 200%;
+		height: calc(1.25em + 6px);
+		line-height: 1.25em; 
+		min-width: 4em;
+		max-width: 6em;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
@@ -2643,7 +2705,7 @@ input, select, textarea {
 		}
 
 		#header strong, #header b {
-			color: #0B2236;
+			color: #bcc4cc;
 			font-weight: bold;
 		}
 
