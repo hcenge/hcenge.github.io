@@ -1,0 +1,55 @@
+baseURL: "https://helenengelhardt.ca"
+title: "Helen Engelhardt"
+languageCode: "en-us"
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  profileMode:
+    enabled: true
+    title: "Helen Engelhardt"
+    subtitle: "Hi! I'm a DPhil student at the University of Oxford, working in the Energy Materials Interface group under the supervision of Dr. Robert Weatherup. I recently graduated from the University of Waterloo with a BASc in Nanotechnology Engineering with Honours.
+    \n\n\n I'm passionate about tech solutions to the climate crisis, specifically in the area of nanomaterials and electrochemistry. My current research focuses on the development of earth-abundant catalysts for the Oxygen Evolution Reaction to enable sustainable hydrogen production.
+    \n\n\n I was in a co-op program in undergrad, and spent time in both industry and research. In brief, I've worked on gold nanoparticles for CO2 electrochemistry, battery materials, microfluidics for vaccine manufacturing, and battery recycling.
+    \n\n\n When I'm not in the lab, you might find me hiking, playing violin, or knitting a sweater."
+    imageUrl: "https://emi.web.ox.ac.uk/sites/default/files/styles/mt_image_medium_square/public/emi/images/media/thumbnail_53584129616_3ece17366a_o.jpg"
+    imageTitle: "Profile Picture"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: CV
+        url: "/cv"
+    #   - name: Archives
+    #     url: "/archives"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/helenengelhardt"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=FWQCq3MAAAAJ&hl=en"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-6347-6194"
+  
+  homeInfoParams:
+    Title: "Helen Engelhardt"
+  
+  footer:
+    hideCredits: true
+
+# menu:
+#   main:
+#     - identifier: archives
+#       name: Archives
+#       url: /archives/
+#       weight: 10
+#     - identifier: tags
+#       name: Tags
+#       url: /tags/
+#       weight: 20

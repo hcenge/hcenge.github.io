@@ -1,0 +1,10 @@
+/* Override any center alignment from parent elements */
+.subtitle {
+    text-align: center !important;
+}
+
+.subtitle p {
+    margin: 1rem 0; /* Add vertical spacing between the paragraphs */
+    font-size: 1rem; /* Set a smaller font size */
+    line-height: 1.4; /* Reduce the spacing between lines in a paragraph */
+}
