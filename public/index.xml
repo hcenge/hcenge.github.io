@@ -5,22 +5,15 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Helen Engelhardt</description>
     <generator>Hugo -- 0.138.0</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/research/earth_abundant/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/research/earth_abundant/</guid>
       <description>&lt;p&gt;Welcome to my first blog post! This is some example content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description></description>
     </item>
     <item>
       <title>CV</title>
@@ -51,6 +44,19 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
 &lt;p&gt;For more details on my previous research projects, see &lt;a href=&#34;http://localhost:1313/content/research.md&#34;&gt;my research page!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;Welcome to my research page!&lt;/p&gt;
+&lt;p&gt;This page is an introduction for non-specialists to some of the areas and projects I have worked on or am currently exploring in an academic context. This is not a complete list. For a complete and up to date list of publications I have contributed to, see my &lt;a href=&#34;https://scholar.google.com/citations?user=FWQCq3MAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;details open&gt;
+&lt;summary&gt;Earth-Abundant Catalysts for Hydrogen Production&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;PhD Project Interest&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Active&lt;/p&gt;
+&lt;p&gt;This is my primary research focus during my PhD studies. Hydrogen production, primarily for the steel industry and ammonia synthesis, contributes to approximately 10% of global CO2 emissions. This is because 95% of industrial hydrogen production occurs via steam reforming of methane, a process that emits carbon monoxide and carbon dioxide along with hydrogen gas.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

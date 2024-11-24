@@ -1,3 +1,48 @@
+/* Collapsible sections */
+details {
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
+    background: var(--entry);
+}
+
+summary {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    cursor: pointer;
+    color: var(--primary);
+}
+
+details[open] {
+    padding: 0.5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0.5em;
+}
+
+details > summary::before {
+    display: inline-block;
+    margin-right: 0.5em;
+    font-size: 0.7em;
+    transition: transform 0.2s;
+    color: var(--secondary);
+}
+
+details[open] > summary::before {
+    transform: rotate(90deg);
+}
+
+/* Add spacing between sections */
+details + hr {
+    margin: 2em 0;
+    opacity: 0.3;
+}
+
 /* Override any center alignment from parent elements */
 .subtitle {
     text-align: center !important;
@@ -7,4 +52,20 @@
     margin: 1rem 0; /* Add vertical spacing between the paragraphs */
     font-size: 1rem; /* Set a smaller font size */
     line-height: 1.4; /* Reduce the spacing between lines in a paragraph */
+}
+
+.post-header{
+    font-size: 1 rem;
+}
+
+.post-content{
+    font-size: 1 rem;
+}
+
+.toc{
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    margin-bottom: 1em;
+    background: var(--entry);
 }

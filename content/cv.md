@@ -68,6 +68,7 @@ Please note that specific project details are not disclosed due to confidentiali
 ## Awards
 
 - **Clarendon Scholarship & Oxford-Wolfson-Marriott Scholarship:** Full funding for DPhil at Oxford (2024)  
+- **The Logic Leading Innovator:** (June 2024) [See article in Waterloo Nanotechnology Engineering News](https://uwaterloo.ca/nanotechnology-engineering/news/class-2024-alumni-named-leading-innovator-logic)
 - **Rhodes Ontario Finalist:** Provincial finalist (2023)  
 - **Dean’s Honors List:** University of Waterloo (2022, 2023, 2024)  
 
