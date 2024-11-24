@@ -164,6 +164,18 @@
 </a>
 
 <script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var links = document.getElementsByTagName('a');
+        for (var i = 0; i < links.length; i++) {
+            var link = links[i];
+            if (link.hostname !== window.location.hostname && link.hostname !== '') {
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+            }
+        }
+    });
+
     let menu = document.getElementById('menu')
     if (menu) {
         menu.scrollLeft = localStorage.getItem("menu-scroll-position");

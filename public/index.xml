@@ -16,62 +16,41 @@
       <description>&lt;p&gt;Welcome to my first blog post! This is some example content.&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>CV</title>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
-&lt;h2 id=&#34;university-of-oxford-2023-present&#34;&gt;University of Oxford (2023-Present)&lt;/h2&gt;
+      <description>&lt;p&gt;This is a pared down version of my CV; for a more detailed version, please &lt;a href=&#34;mailto:me@helenengelhardt.ca&#34;&gt;contact me!&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;university-of-oxford&#34;&gt;University of Oxford&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Probationary PhD Student in Materials, &lt;a href=&#34;https://emi.web.ox.ac.uk&#34;&gt;Energy Materials Interfaces Group&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Oct. 2024 – Present&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;DPhil in Materials Science&lt;/li&gt;
-&lt;li&gt;Energy Materials Interface Group&lt;/li&gt;
-&lt;li&gt;Supervisor: Dr. Robert Weatherup&lt;/li&gt;
-&lt;li&gt;Research: Development of earth-abundant catalysts for the Oxygen Evolution Reaction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thesis:&lt;/strong&gt; &lt;em&gt;Size-Selected Alloy Nanoparticles for Electrochemical Hydrogen Production&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Robert Weatherup, Professor of Energy Materials&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;university-of-waterloo-2018-2023&#34;&gt;University of Waterloo (2018-2023)&lt;/h2&gt;
+&lt;h3 id=&#34;university-of-waterloo&#34;&gt;University of Waterloo&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Applied Science, Nanotechnology Engineering&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Sep. 2019 – Jun. 2024&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;BASc in Nanotechnology Engineering with Honours&lt;/li&gt;
-&lt;li&gt;Dean&amp;rsquo;s Honours List&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h1&gt;
-&lt;h2 id=&#34;university-of-oxford-2023-present-1&#34;&gt;University of Oxford (2023-Present)&lt;/h2&gt;
+&lt;li&gt;&lt;strong&gt;Physical Sciences (Chemistry) Option&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capstone Project:&lt;/strong&gt; &lt;em&gt;Scalable System for Removing Microplastics from Wastewater with Iron Oxide&lt;/em&gt;
 &lt;ul&gt;
-&lt;li&gt;DPhil Student, Energy Materials Interface Group&lt;/li&gt;
-&lt;li&gt;Developing earth-abundant catalysts for sustainable hydrogen production&lt;/li&gt;
-&lt;li&gt;Focusing on the Oxygen Evolution Reaction (OER)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Juewen Liu, Department of Chemistry&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;university-of-waterloo-2022&#34;&gt;University of Waterloo (2022)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Undergraduate Researcher&lt;/li&gt;
-&lt;li&gt;Investigated gold nanoparticles for CO2 electrochemistry&lt;/li&gt;
-&lt;li&gt;Developed and characterized novel catalyst materials&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;industry-experience&#34;&gt;Industry Experience&lt;/h1&gt;
-&lt;h2 id=&#34;battery-materials-research&#34;&gt;Battery Materials Research&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Worked on advanced battery materials development&lt;/li&gt;
-&lt;li&gt;Conducted material characterization and performance testing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;vaccine-manufacturing-technology&#34;&gt;Vaccine Manufacturing Technology&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Contributed to microfluidics technology for vaccine production&lt;/li&gt;
-&lt;li&gt;Optimized manufacturing processes&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;battery-recycling&#34;&gt;Battery Recycling&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Developed sustainable battery recycling methods&lt;/li&gt;
-&lt;li&gt;Focused on material recovery and environmental impact&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Materials Characterization: SEM, XPS, XRD&lt;/li&gt;
-&lt;li&gt;Electrochemistry: Cyclic Voltammetry, Impedance Spectroscopy&lt;/li&gt;
-&lt;li&gt;Data Analysis: Python, Origin&lt;/li&gt;
-&lt;li&gt;Laboratory Techniques: Wet Chemistry, Materials Synthesis&lt;/li&gt;
-&lt;li&gt;Clean Room Experience&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;publications--presentations&#34;&gt;Publications &amp;amp; Presentations&lt;/h1&gt;
-&lt;p&gt;[List of publications and presentations]&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h2 id=&#34;research-experience&#34;&gt;Research Experience&lt;/h2&gt;
+&lt;p&gt;For more details on my previous research projects, see &lt;a href=&#34;http://localhost:1313/content/research.md&#34;&gt;my research page!&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
