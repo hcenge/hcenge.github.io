@@ -16,9 +16,9 @@ This page is an introduction for non-specialists to some of the areas and projec
 
 **Status:** Active
 
-This is my primary research focus during my PhD studies. Hydrogen production, primarily for the steel industry and ammonia synthesis, contributes to approximately 10% of global CO2 emissions. This is because 95% of industrial hydrogen production occurs via steam reforming of methane, a process that emits carbon monoxide and carbon dioxide along with hydrogen gas.
+This is my primary research focus during my PhD studies. Hydrogen production, primarily for the steel industry and ammonia synthesis, contributes to approximately 10% of global CO<sub>2</sub> emissions. This is because 95% of industrial hydrogen production occurs via steam reforming of methane, a process that emits carbon monoxide and carbon dioxide along with hydrogen gas.
 
-Hydrogen can be made without CO2 emissions using water splitting, a simple idea in which current is applied to convert H2O into H2 and O2. However, electrochemical production of hydrogen currently contributes only about 5% of the global hydrogen production market. This is partially due to the high cost and rarity of appropriate catalyst materials for the reaction (Ir for oxygen evolution, Pt for hydrogen evolution). To address this, my research focuses on developing earth-abundant catalysts with high electrochemical activity and high stability for use in hydrogen electrolysis.
+Hydrogen can be made without CO<sub>2</sub> emissions using water splitting, a simple idea in which current is applied to convert H<sub>2</sub>O into H<sub>2</sub> and O<sub>2</sub>. However, electrochemical production of hydrogen currently contributes only about 5% of the global hydrogen production market. This is partially due to the high cost and rarity of appropriate catalyst materials for the reaction (Ir for oxygen evolution, Pt for hydrogen evolution). To address this, my research focuses on developing earth-abundant catalysts with high electrochemical activity and high stability for use in hydrogen electrolysis.
 
 My approach will combine in situ spectroscopic techniques with computational modelling to identify optimal alloy catalyst compositions and understand how they degrade.
 </details>
