@@ -26,7 +26,7 @@ This is a pared down version of my CV; for a more detailed version, please [cont
 ---
 
 ## Research Experience
-For more details on my previous research projects, see [my research page!](/content/research.md)
+For more details on my previous research projects, see [my research page!](https://helenengelhardt.ca/research/)
 
 ### [Klinkova Lab (at University of Waterloo)](https://klinkovalab.com)
 **Research Assistant (Nanomaterials)**  
