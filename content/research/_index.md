@@ -12,7 +12,7 @@ This page is an introduction for non-specialists to some of the areas and projec
 <details open>
 <summary>Earth-Abundant Catalysts for Hydrogen Production</summary>
 
-*PhD Project Interest*
+*PhD Thesis Topic*
 
 **Status:** Active
 
