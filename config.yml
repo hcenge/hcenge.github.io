@@ -1,6 +1,7 @@
 baseURL: "https://hcenge.github.io/"
 title: Helen Engelhardt
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -50,7 +51,7 @@ params:
     \n\n\n I'm passionate about tech solutions to the climate crisis, specifically in the area of nanomaterials and electrochemistry. My research focuses on the development of earth-abundant catalysts for the Oxygen Evolution Reaction to enable sustainable hydrogen production.
     \n\n\n I was in a co-op program in undergrad, and spent time in both industry and research. In brief, I've worked on gold nanoparticles for CO2 electrochemistry, battery materials, microfluidics for vaccine manufacturing, and battery recycling.
     \n\n\n When I'm not in the lab, you might find me hiking, playing violin, or knitting a sweater."
-    imageUrl: "https://emi.web.ox.ac.uk/sites/default/files/styles/mt_image_medium_square/public/emi/images/media/thumbnail_53584129616_3ece17366a_o.jpg"
+    imageUrl: "/images/profile.jpeg"
     imageTitle: "Profile Picture"
     imageWidth: 200
     imageHeight: 200
@@ -110,8 +111,12 @@ menu:
       name: CV
       url: /cv/
       weight: 10
-    - identifier: research
-      name: Research
-      url: /research/
-      weight: 20
+    # - identifier: research
+    #   name: Research
+    #   url: /research/
+    #   weight: 20
+    - identifier: Blog
+      name: Blog
+      url: https://blog.helenengelhardt.ca
+      weight: 30
 
